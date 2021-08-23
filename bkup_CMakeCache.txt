@@ -338,7 +338,7 @@ FC_USE_FULL_ZLIB:BOOL=FALSE
 GIT_EXECUTABLE:FILEPATH=/usr/bin/git
 
 //location of the genesis.json to embed in the executable
-GRAPHENE_EGENESIS_JSON:PATH=/home/pbattu/git/18.04/peerplays/genesis.json
+GRAPHENE_EGENESIS_JSON:PATH=/home/sean/peerplays/genesis-hiltest.json
 
 //The directory containing a CMake configuration file for Gperftools.
 Gperftools_DIR:PATH=Gperftools_DIR-NOTFOUND
