@@ -51,7 +51,7 @@ macro(FIND_CURL)
 endmacro()
 
 set(CMAKE_EXPORT_COMPILE_COMMANDS "ON")
-set(GRAPHENE_EGENESIS_JSON "${CMAKE_CURRENT_SOURCE_DIR}/genesis-hiltest.json" CACHE PATH "location of the genesis-hiltest.json to embed in the executable" )
+# set(GRAPHENE_EGENESIS_JSON "${CMAKE_CURRENT_SOURCE_DIR}/genesis-hiltest.json" CACHE PATH "location of the genesis-hiltest.json to embed in the executable" )
 
 #set (ENABLE_INSTALLER 1)
 #set (USE_PCH 1)
